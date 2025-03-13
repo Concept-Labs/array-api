@@ -1,2 +1,2 @@
-# array-api
+# api
 Array API
